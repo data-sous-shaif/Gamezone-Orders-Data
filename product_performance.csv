@@ -1,0 +1,9 @@
+product_name_cleaned,total_revenue,total_orders,avg_price,total_customers,repeat_buyers,rpr_%,revenue_%_of_total,cumulative_revenue_%,revenue_per_order,abc_class
+27in 4k gaming monitor,1968565.34,4723,417.5112067868505,4358,354.0,8.12,32.0,32.0,416.8,A
+nintendo switch,1658717.65,10386,159.70707202002694,9686,677.0,6.99,26.97,58.97,159.71,A
+sony playstation 5 bundle,1589243.85,977,1626.6569600818834,900,76.0,8.44,25.84,84.81,1626.66,B
+lenovo ideapad gaming 3,735506.56,669,1099.4118983557548,617,51.0,8.27,11.96,96.77,1099.41,C
+jbl quantum 100 gaming headset,96197.67,4296,22.50237894736842,4025,262.0,6.51,1.56,98.33,22.39,C
+acer nitro v gaming laptop,65661.18,87,754.7262068965516,78,9.0,11.54,1.07,99.4,754.73,C
+dell gaming mouse,36490.01,719,51.10645658263306,647,71.0,10.97,0.59,99.99,50.75,C
+razer pro gaming headset,884.23,7,126.31857142857143,7,0.0,0.0,0.01,100.0,126.32,C

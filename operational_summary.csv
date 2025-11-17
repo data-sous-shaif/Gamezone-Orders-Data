@@ -1,0 +1,11 @@
+metric,value
+total_orders,21864.0
+operational_records_(used_for_analysis),19861.0
+extreme_shipping_outliers_(>30_days),2.0
+invalid_shipping_(ship<purchase),2000.0
+data_quality_rate_%,90.84
+overall_avg_shipping_time_days,2.0
+median_shipping_time_days,2.0
+95th_percentile_shipping_days,3.0
+overall_delayed_shipping_rate_%,0.0
+delay_threshold_days,7.0

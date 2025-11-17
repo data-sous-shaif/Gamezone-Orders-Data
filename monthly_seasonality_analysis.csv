@@ -1,0 +1,92 @@
+product_name_cleaned,order_month,order_month_num,revenue,avg_revenue,vs_avg_%
+27in 4k gaming monitor,April,4.0,157174.24,164047.11166666666,-4.19
+27in 4k gaming monitor,August,8.0,136530.49,164047.11166666666,-16.77
+27in 4k gaming monitor,December,12.0,228007.01,164047.11166666666,38.99
+27in 4k gaming monitor,February,2.0,164956.06,164047.11166666666,0.55
+27in 4k gaming monitor,January,1.0,164371.15,164047.11166666666,0.2
+27in 4k gaming monitor,July,7.0,147090.26,164047.11166666666,-10.34
+27in 4k gaming monitor,June,6.0,136224.18,164047.11166666666,-16.96
+27in 4k gaming monitor,March,3.0,133978.4,164047.11166666666,-18.33
+27in 4k gaming monitor,May,5.0,153211.69,164047.11166666666,-6.61
+27in 4k gaming monitor,November,11.0,187416.16,164047.11166666666,14.25
+27in 4k gaming monitor,October,10.0,158947.0,164047.11166666666,-3.11
+27in 4k gaming monitor,September,9.0,200658.7,164047.11166666666,22.32
+acer nitro v gaming laptop,April,4.0,2126.96,5471.765,-61.13
+acer nitro v gaming laptop,August,8.0,5422.1,5471.765,-0.91
+acer nitro v gaming laptop,December,12.0,11432.38,5471.765,108.93
+acer nitro v gaming laptop,February,2.0,7930.96,5471.765,44.94
+acer nitro v gaming laptop,January,1.0,3894.04,5471.765,-28.83
+acer nitro v gaming laptop,July,7.0,4729.6,5471.765,-13.56
+acer nitro v gaming laptop,June,6.0,3440.56,5471.765,-37.12
+acer nitro v gaming laptop,March,3.0,5282.21,5471.765,-3.46
+acer nitro v gaming laptop,May,5.0,4371.76,5471.765,-20.1
+acer nitro v gaming laptop,November,11.0,5300.14,5471.765,-3.14
+acer nitro v gaming laptop,October,10.0,3796.29,5471.765,-30.62
+acer nitro v gaming laptop,September,9.0,7934.18,5471.765,45.0
+dell gaming mouse,April,4.0,1269.87,3040.834166666666,-58.24
+dell gaming mouse,August,8.0,1932.96,3040.834166666666,-36.43
+dell gaming mouse,December,12.0,6158.0599999999995,3040.834166666666,102.51
+dell gaming mouse,February,2.0,3466.23,3040.834166666666,13.99
+dell gaming mouse,January,1.0,4940.389999999999,3040.834166666666,62.47
+dell gaming mouse,July,7.0,1535.0,3040.834166666666,-49.52
+dell gaming mouse,June,6.0,1383.3999999999999,3040.834166666666,-54.51
+dell gaming mouse,March,3.0,485.53,3040.834166666666,-84.03
+dell gaming mouse,May,5.0,1261.3999999999999,3040.834166666666,-58.52
+dell gaming mouse,November,11.0,5267.0599999999995,3040.834166666666,73.21
+dell gaming mouse,October,10.0,4066.3599999999997,3040.834166666666,33.73
+dell gaming mouse,September,9.0,4723.75,3040.834166666666,55.34
+jbl quantum 100 gaming headset,April,4.0,8493.35,8014.642499999999,5.97
+jbl quantum 100 gaming headset,August,8.0,7454.63,8014.642499999999,-6.99
+jbl quantum 100 gaming headset,December,12.0,10198.36,8014.642499999999,27.25
+jbl quantum 100 gaming headset,February,2.0,7577.06,8014.642499999999,-5.46
+jbl quantum 100 gaming headset,January,1.0,7442.76,8014.642499999999,-7.14
+jbl quantum 100 gaming headset,July,7.0,7989.87,8014.642499999999,-0.31
+jbl quantum 100 gaming headset,June,6.0,7430.57,8014.642499999999,-7.29
+jbl quantum 100 gaming headset,March,3.0,7750.42,8014.642499999999,-3.3
+jbl quantum 100 gaming headset,May,5.0,8262.2,8014.642499999999,3.09
+jbl quantum 100 gaming headset,November,11.0,7908.23,8014.642499999999,-1.33
+jbl quantum 100 gaming headset,October,10.0,6438.96,8014.642499999999,-19.66
+jbl quantum 100 gaming headset,September,9.0,9229.3,8014.642499999999,15.16
+lenovo ideapad gaming 3,April,4.0,46886.94,61292.21333333334,-23.5
+lenovo ideapad gaming 3,August,8.0,78816.25,61292.21333333334,28.59
+lenovo ideapad gaming 3,December,12.0,99662.31,61292.21333333334,62.6
+lenovo ideapad gaming 3,February,2.0,60570.89,61292.21333333334,-1.18
+lenovo ideapad gaming 3,January,1.0,52967.4,61292.21333333334,-13.58
+lenovo ideapad gaming 3,July,7.0,51973.88,61292.21333333334,-15.2
+lenovo ideapad gaming 3,June,6.0,47820.07,61292.21333333334,-21.98
+lenovo ideapad gaming 3,March,3.0,55287.77,61292.21333333334,-9.8
+lenovo ideapad gaming 3,May,5.0,51552.869999999995,61292.21333333334,-15.89
+lenovo ideapad gaming 3,November,11.0,63009.97,61292.21333333334,2.8
+lenovo ideapad gaming 3,October,10.0,46126.75,61292.21333333334,-24.74
+lenovo ideapad gaming 3,September,9.0,80831.46,61292.21333333334,31.88
+nintendo switch,April,4.0,126052.82,138226.47083333333,-8.81
+nintendo switch,August,8.0,149086.4,138226.47083333333,7.86
+nintendo switch,December,12.0,185110.44,138226.47083333333,33.92
+nintendo switch,February,2.0,141042.96,138226.47083333333,2.04
+nintendo switch,January,1.0,139698.28,138226.47083333333,1.06
+nintendo switch,July,7.0,133858.41,138226.47083333333,-3.16
+nintendo switch,June,6.0,126533.67,138226.47083333333,-8.46
+nintendo switch,March,3.0,109126.41,138226.47083333333,-21.05
+nintendo switch,May,5.0,131252.47,138226.47083333333,-5.05
+nintendo switch,November,11.0,145660.9,138226.47083333333,5.38
+nintendo switch,October,10.0,108120.96,138226.47083333333,-21.78
+nintendo switch,September,9.0,163173.93,138226.47083333333,18.05
+razer pro gaming headset,April,4.0,112.83,126.31857142857143,-10.68
+razer pro gaming headset,August,8.0,138.26,126.31857142857143,9.45
+razer pro gaming headset,June,6.0,119.98,126.31857142857143,-5.02
+razer pro gaming headset,March,3.0,119.98,126.31857142857143,-5.02
+razer pro gaming headset,May,5.0,119.98,126.31857142857143,-5.02
+razer pro gaming headset,November,11.0,153.22,126.31857142857143,21.3
+razer pro gaming headset,October,10.0,119.98,126.31857142857143,-5.02
+sony playstation 5 bundle,April,4.0,130846.9,132436.98750000002,-1.2
+sony playstation 5 bundle,August,8.0,146035.66,132436.98750000002,10.27
+sony playstation 5 bundle,December,12.0,189635.89,132436.98750000002,43.19
+sony playstation 5 bundle,February,2.0,129190.9,132436.98750000002,-2.45
+sony playstation 5 bundle,January,1.0,126411.25,132436.98750000002,-4.55
+sony playstation 5 bundle,July,7.0,101353.82,132436.98750000002,-23.47
+sony playstation 5 bundle,June,6.0,110238.09,132436.98750000002,-16.76
+sony playstation 5 bundle,March,3.0,105622.38,132436.98750000002,-20.25
+sony playstation 5 bundle,May,5.0,118858.21,132436.98750000002,-10.25
+sony playstation 5 bundle,November,11.0,141906.54,132436.98750000002,7.15
+sony playstation 5 bundle,October,10.0,137250.76,132436.98750000002,3.63
+sony playstation 5 bundle,September,9.0,151893.45,132436.98750000002,14.69
