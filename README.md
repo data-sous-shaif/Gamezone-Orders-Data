@@ -49,3 +49,14 @@
 
 </div>
 
+
+Risk Assessment & Mitigation Priorities
+
+| **Risk** | **Probability** | **Impact** | **Mitigation** | **Priority** |
+|---------|------------------:|------------|----------------|:-------------|
+| **January collapse repeats (2022)** | **90%** | 🔴 **Critical** | Firewall + subscription | 🔥 **High** |
+| **Weakening recovery** | **70%** | 🔴 **High** | Strong Mar–Apr campaigns | 🔥 **High** |
+| **Peak maintenance failure** | 60% | 🟠 High | Retention + pricing | 🟡 Medium |
+| **October pattern persists** | 80% | 🟡 Medium | October turnaround strategy | 🟡 Medium |
+| **Subscription adoption <30%** | 40% | 🟡 Medium | Pilot testing + incentives | 🟡 Medium |
+| **Ongoing volatility** | 85% | 🟡 Medium | Subscription model scaling | 🟡 Medium |
