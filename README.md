@@ -4,29 +4,30 @@
 
 # **Monthly Active Buyers Performance**
 
-## **1. Critical Vulnerability: January Collapse Pattern**
-- January represents existential risk: MAB crashes 45–55% every January (2020: -55%, 2021: -45%).
+## **Critical Vulnerability: January Collapse Pattern**
+- January represents existential risk: MAB crashes **45–55% every January** (2020: **-55%**, 2021: **-45%**).
 - Third consecutive year confirms structural flaw, not anomaly.
-- Without intervention, January 2022 will drop MAB to 450–550 range (90% confidence).
+- Without intervention, **January 2022** will drop MAB to **450–550 range** (**90% confidence**).
 
-## **2. Peak Performance & Declining Recovery Strength**
-- December 2020 hit ceiling at 1,361 MAB — highest point under current model.
-- Current position: 909 MAB (Feb 2021), up 128% from Jan 2019 baseline but highly unstable.
-- Recovery momentum weakening: Feb 2021 rebounded +22.5% vs Feb 2020's +131% — an 83% decline in recovery power.
+## **Peak Performance & Declining Recovery Strength**
+- December 2020 hit ceiling at **1,361 MAB** — highest point under current model.
+- Current position: **909 MAB (Feb 2021)**, up **128% from Jan 2019 baseline** but highly unstable.
+- Recovery momentum weakening: Feb 2021 rebounded **+22.5% vs Feb 2020's +131%** — an **83% decline** in recovery power.
 
-## **3. Seasonal Reliability & Secondary Weaknesses**
-- Q4 (Nov–Dec) is the growth engine: averages +15–20% both years — most predictable upside.
-- October consistently underperforms: -18% (2019), -22% (2020) — secondary vulnerability requiring Q4 prep repositioning.
-- Volatility persists at ±30–40% monthly swings without structural changes.
+## **Seasonal Reliability & Secondary Weaknesses**
+- Q4 (Nov–Dec) is the growth engine: averages **+15–20% both years** — most predictable upside.
+- October consistently underperforms: **-18% (2019)**, **-22% (2020)** — secondary vulnerability requiring Q4 prep repositioning.
+- Volatility persists at **±30–40% monthly swings** without structural changes.
 
-## **4. Strategic Imperatives — Next 90 Days**
-- Prevent January 2022 collapse: launch retention firewall by Nov 2021 (loyalty rewards, payment flexibility, Dec campaigns). Target: reduce decline from 45% to <25%.
-- Build subscription revenue base: pilot by April 2021, scale to 270–360 subscribers (30–40% of base) by June. Creates predictable floor and cuts volatility to ±15%.
-- Accelerate recovery campaigns: match Feb 2020 strength (+131%) to hit 1,100+ MAB by April 2021 — current +22% trajectory insufficient.
-- Target: 1,200–1,300 sustained MAB by Q4 2021 with <20% monthly variance and 45–50% repeat rate.
+## **Strategic Imperatives — Next 90 Days**
+- Prevent **January 2022 collapse**: launch retention firewall by **Nov 2021** (loyalty rewards, payment flexibility, Dec campaigns). Target: reduce decline from **45% to <25%**.
+- Build subscription revenue base: pilot by **April 2021**, scale to **270–360 subscribers (30–40% of base) by June**. Creates predictable floor and cuts volatility to **±15%**.
+- Accelerate recovery campaigns: match Feb 2020 strength (**+131%**) to hit **1,100+ MAB by April 2021** — current **+22% trajectory** insufficient.
+- Target: **1,200–1,300 sustained MAB by Q4 2021** with **<20% monthly variance** and **45–50% repeat rate**.
 
 
-## RPAC Performance & Risk Assessment (2x2 Grid)
+
+## RPAC Performance & Risk Assessment 
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
 
