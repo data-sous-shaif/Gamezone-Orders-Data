@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 style="text-align: center;"># GameZone Business Performance Analysis</h1>
+<h1 style="text-align: center;">GameZone Business Performance Analysis</h1>
 
 
 
@@ -22,7 +22,7 @@ The analysis and recommendations focus on the following areas:
 
 ---
 
-<h1 style="text-align: center;">Operational Performance</h1>
+<h1 style="text-align: center;"> Operational Performance</h1>
 
 GameZone's operational excellence provides a foundation for growth.
 
