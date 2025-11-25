@@ -373,6 +373,7 @@ Geographic distribution completes the full business picture.
 # Country And Regional Performance 
 
 ![Marketing Snapshot](Images/Country%20And%20Regional%20Final.png)
+![YOY REgional  Snapshot](Images/Regional%20yoy%20sales.png)
 
 ---
 
