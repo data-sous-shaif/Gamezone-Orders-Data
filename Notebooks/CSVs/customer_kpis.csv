@@ -1,0 +1,38 @@
+
+
+### Summary
+Metric,Value
+Total Customers,19851.0
+Repeat Purchase Rate (%),9.34
+Average Orders per Customer,1.09
+Average Lifetime Value ($),309.87
+Median Lifetime Value ($),168.0
+Top 100 Customers Revenue Share (%),5.1
+One-time Customers (%),90.66
+Repeat Customers (%),9.34
+
+
+### Customer Segments by Frequency
+order_id,customers,share_%
+One-time (1),17996,90.65538260037277
+Low (2),1741,8.770339025741777
+Medium (3-5),114,0.5742783738854466
+High (6+),0,0.0
+
+
+### Customer Distribution by Region
+region,unique_customers,customer_share_%,total_revenue,total_orders,revenue_per_customer,orders_per_customer
+APAC,1430,7.203667321545513,531226.11,1588,371.4867902097902,1.1104895104895105
+EMEA,8640,43.52425570500227,2562575.68,9515,296.5944074074074,1.1012731481481481
+LATAM,356,1.7933605359931488,85841.4,389,241.12752808988762,1.0926966292134832
+NA,9388,47.292327842426076,2968096.26,10330,316.1585279079676,1.1003408606732
+unknown,37,0.18638859503299582,3527.04,42,95.3254054054054,1.135135135135135
+
+
+### Customer Acquisition Method Split
+account_creation_method_cleaned,unique_customers,share_%,total_revenue,total_orders,revenue_per_customer,orders_per_customer
+desktop,14900,75.05919097274698,4778185.51,16458,320.68359127516777,1.1045637583892618
+mobile,3992,20.109818145181602,1042855.87,4232,261.2364403807615,1.060120240480962
+tablet,304,1.5314089970278575,69526.37,323,228.7051644736842,1.0625
+tv,22,0.11082565110070021,5212.2,25,236.9181818181818,1.1363636363636365
+unknown,746,3.7579970782328345,255486.54,826,342.47525469168903,1.1072386058981234

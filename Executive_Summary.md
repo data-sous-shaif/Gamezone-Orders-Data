@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="Images/Lgo.jpg" alt="Logo Snapshot">
+  <img src="Images/Logo/Logo.jpg" alt="Logo Snapshot">
 </p>
+
 
 
 <h1 style="text-align: center;">GameZone Business Performance Analysis</h1>
@@ -13,12 +14,11 @@ With an annual revenue of **$6.24 million**, GameZone serves **19,851 customers*
 
 To support future growth, a comprehensive analysis was conducted to assess GameZone's business performance across multiple dimensions, including customer behavior, sales trends, product performance, and regional contributions. These insights will guide internal teams in refining strategies, improving efficiency, and enhancing the overall commercial trajectory of the company.
 
+
+![Business Snapshot](Images/Charts/Business_Snapshot.jpg)
+
+
 The analysis and recommendations focus on the following areas:
-
-
-![Business Snapshot](Images/business%20snapshot.jpg)
-
-
 
 ---
 
@@ -26,7 +26,7 @@ The analysis and recommendations focus on the following areas:
 
 GameZone's operational excellence provides a foundation for growth.
 
-![Marketing Snapshot](Images/Operational_Summary%20.jpg)
+![Operation Snapshot](Images/Charts/Operational_Summary.jpg)
 
 ### Exceptionally Fast Shipping With Minor Data Quality Risks
 - Total Orders: **21,864**, with **19,861 valid operational records**
@@ -117,7 +117,7 @@ North Star Metrics reveal the depth of these challenges.
 
 <h2 style="text-align: center;">North Star Metrics Performance</h2>
 
-![NSM Snapshot](Images/NSMs%20.jpg)
+![NSM Snapshot](Images/Charts/NSMs%20.jpg)
 
 ---
 
@@ -127,7 +127,7 @@ Each metric reveals specific vulnerabilities requiring immediate action.
 
 ## Monthly Active Buyers Performance
 
-![MAB Snapshot](Images/MAB_Final.png)
+![MAB Snapshot](Images/Charts/MAB.png)
 
 ### Critical Vulnerability: January Collapse Pattern
 - **January Risk:** MAB crashes **45–55% every January**  
@@ -160,7 +160,7 @@ RPAC performance shows troubling pricing and value deterioration.
 
 ## RPAC Performance & Risk Assessment
 
-![RPAC Snapshot](Images/RPAC_Final.png)
+![RPAC Snapshot](Images/Charts/RPAC.png)
 
 ### Strong Growth Trajectory
 - **RPAC Growth:** Grew **65%** in two years — from **$239 (Jan 2019)** to **$395 (Dec 2020)**  
@@ -187,7 +187,7 @@ Retention failures explain why RPAC gains remain unsustainable.
 
 ## Repeat Purchase Rate
 
-![RPR Snapshot](Images/rpr.png)
+![RPR Snapshot](Images/Charts/RPR.png)
 
 **Note:** The 9.34% overall repeat rate represents all customers who have made 2+ purchases across their lifetime with GameZone. In contrast, monthly cohort rates (ranging from 0.24% to 31.24%) show repeat behavior of specific acquisition cohorts within their first 1-2 months, explaining the variance as newer cohorts have had less time to demonstrate repeat purchasing.
 
@@ -223,7 +223,7 @@ Acquisition efficiency reveals critical channel concentration risks.
 
 ## Customer Acquisition Efficiency (CAE) Performance
 
-![CAE Snapshot](Images/CAE_Final%20_.png)
+![CAE Snapshot](Images/Charts/CAE.png)
 
 ### Peak Efficiency Achieved in Late 2020, Now Declining
 - **CAE Peak:** **270 customers per channel (Dec 2020)** — highest on record  
@@ -277,8 +277,8 @@ Channel mix analysis reveals dangerous over-reliance on Direct.
 
 # Marketing Channel Performance 
 
-![Marketing Snapshot](Images/Marketing%20Channels.png)
-![Marketing Snapshot](Images/Marketing_Channel_Final.png)
+![Marketing Snapshot](Images/Charts/Marketing_Channels_Revenue.png)
+![Marketing Snapshot](Images/Charts/Marketing_Channel.png)
 
 ## Marketing Channels: Extreme Revenue Concentration With Uneven Efficiency
 - Direct channel dominates **83% of total revenue** and **79.7% of total orders**  
@@ -322,8 +322,8 @@ Product concentration amplifies revenue vulnerability beyond channels.
 
 # Pricing & Product Performance
 
-![Product Snapshot](Images/part%202.jpg)
-![Product Snapshot](Images/Pareto_Final.png)
+![Product Snapshot](Images/Charts/Product_Dashboard.jpg)
+![Product Snapshot](Images/Charts/Pareto_Final.png)
 
 ## Product Performance: Extreme Concentration and Heavy Revenue Skew
 - Top Product Revenue Leader: **27in 4k Gaming Monitor – ₹1.97M (32% of total revenue)**  
@@ -358,7 +358,7 @@ Seasonal patterns reveal systemic volatility and Q4 dependency.
 
 # Monthly Revenue & Growth Overview
 
-![Business sales and Revenue Snapshot](Images/part%201.jpg)
+![Business sales and Revenue Snapshot](Images/Charts/Revenue_Dashboard.jpg)
 
 ## ⚠️ Key Insights
 1. **Seasonality Risk:** 40% variance (Dec vs Mar), heavy Q4 dependence, cash flow gaps likely Q1–Q2  
@@ -372,8 +372,8 @@ Geographic distribution completes the full business picture.
 
 # Country And Regional Performance 
 
-![Marketing Snapshot](Images/Country%20And%20Regional%20Final.png)
-![YOY REgional  Snapshot](Images/Regional%20yoy%20sales.png)
+![Country Snapshot](Images/Charts/Country_And_Regional.png)
+![YOY REgional  Snapshot](Images/Charts/Regional_YOY_Sales.png)
 
 ---
 
